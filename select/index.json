@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "カゼマチグサ (album ver.)",
+  "base_artist": "稲葉曇",
+  "createdAt": "2025-12-11T07:36:41.492638Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カゼマチグサ - album ver.",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/01_カゼマチグサ_-_album_ver._稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カゼマチグサ",
+      "artist": "稲葉曇 feat. 鳴花ヒメ",
+      "has_synced": false,
+      "path": "select/02_カゼマチグサ_稲葉曇_feat._鳴花ヒメ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カゼマチグサ (album ver.) (A Flower Waiting For The Wind)",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/03_カゼマチグサ_(album_ver.)_(A_Flower_Waiting_For_The_Wind)_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カゼマチグサ (album ver.)",
+      "artist": "稲葉曇 Vo. 歌愛ユキ",
+      "has_synced": true,
+      "path": "select/04_カゼマチグサ_(album_ver.)_稲葉曇_Vo._歌愛ユキ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カゼマチグサ",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/05_カゼマチグサ_稲葉曇.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "カゼマチグサ",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/06_カゼマチグサ_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "カゼマチグサ (album ver.)",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/07_カゼマチグサ_(album_ver.)_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "カゼマチグサ",
+      "artist": "稲葉曇 & 鳴花ヒメ",
+      "has_synced": true,
+      "path": "select/08_カゼマチグサ_稲葉曇_&_鳴花ヒメ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "カゼマチグサ(feat. 鳴花ヒメ)",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/09_カゼマチグサ(feat._鳴花ヒメ)_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "稲葉曇『カゼマチグサ』Vo. 鳴花ヒメ",
+      "artist": "Inabakumori",
+      "has_synced": true,
+      "path": "select/10_稲葉曇『カゼマチグサ』Vo._鳴花ヒメ_Inabakumori.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カゼマチグサ",
+      "artist": "稲葉曇, 鳴花ヒメ",
+      "has_synced": false,
+      "path": "select/pl_01_カゼマチグサ_稲葉曇,_鳴花ヒメ.txt"
+    }
+  ]
+}
